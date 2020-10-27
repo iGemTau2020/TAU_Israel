@@ -1,6 +1,8 @@
 # EFM_Optimizer
 Welcome to the Evolutionary Failure Mode (EFM) Optimizer! We hope that using our product, you will be able to easily design synthetic sequences with higher stability and expression level. 
 
+Our product is contained in the Optimizer directory. Sample input and output data, and code, are placed in the respective directories.
+
 Our basic service will allow you to easily find and rank simple sequence repeats (SSR) and repeat mediated deletions (RMD) sites, for many files at once. These are mutational hotspots, which reduce genetic stability significantly. 
 
 In the case of mammalian or insectoid cells, methylation sites become significant factors in the host’s stability, as they are epigenetic inheritance hotspots. For these cells, we offer the ability to find methylation sites as well. 
