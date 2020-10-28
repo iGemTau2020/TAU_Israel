@@ -11,5 +11,7 @@ EFM Optimizer - https://github.com/iGemTau2020/TAU_Israel/tree/main/Staubility_E
 For more information regarding the models, theory and design of these products, please visit the following pages:
 
 https://2020.igem.org/Team:TAU_Israel/Model
+
 https://2020.igem.org/Team:TAU_Israel/Contribution
+
 https://2020.igem.org/Team:TAU_Israel/Software
